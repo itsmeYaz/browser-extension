@@ -16,7 +16,16 @@ button {
   padding: 10px 20px;
   background-color: #5f9341;
   color: #fff;
-  border: none;
+  border: 1px solid #5f9341;
+  font-weight: bold;
+  cursor: pointer;
+}
+#delete-btn {
+  width: 35%;
+  padding: 10px 20px;
+  background-color: white;
+  color: #5f9341;
+  border: 1px solid #5f9341;
   font-weight: bold;
   cursor: pointer;
 }
